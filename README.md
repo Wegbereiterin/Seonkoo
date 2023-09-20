@@ -4,7 +4,7 @@
 
 ### 1999.03.18
 > *"Tomorrow's me is responsible for today's me."*
-### MBTI : ISFP
+#### MBTI : ISFP
 
 <br/>
 
@@ -15,9 +15,13 @@ I plan to graduate from university in 2025. I majored in computer engineering an
 
 After graduation, I plan to study and obtain an information processing engineer certification, and am studying technologies related to the SWIFT language to become an iOS developer.
 
+<br/>
+
 ## EDUCATION
 - Sangji University 2018 - 2023
 	- Department of Computer Engineering
+
+<br/>
 
 ## SKILLS
 - Language
