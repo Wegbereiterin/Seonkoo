@@ -2,8 +2,8 @@
 
 ## 박선구 Seoul, South Korea
 
-#### 1999.03.18
-#### MBTI : ISFP
+### 1999.03.18
+### MBTI : ISFP
 
 <br/>
 
